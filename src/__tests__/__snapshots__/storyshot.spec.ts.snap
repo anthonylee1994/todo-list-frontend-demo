@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots TypeScript and Storybook Sample Widget 1`] = `
+<button
+  className="button"
+>
+  Butto1n !?
+</button>
+`;

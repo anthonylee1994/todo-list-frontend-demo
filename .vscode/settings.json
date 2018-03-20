@@ -1,0 +1,28 @@
+{
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveDelay": 0,
+    "files.exclude": {
+        "node_modules/": true,
+        "__mocks__": true,
+        "dist": true,
+    },
+    "tslint.autoFixOnSave": true,
+    "editor.detectIndentation": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "editor.formatOnSave": true,
+    "tslint.exclude": "**/generator/**/*.ts",
+    "cSpell.words": [
+        "backend",
+        "component",
+        "reselect",
+        "truebot",
+        "unmount",
+        "will"
+    ]
+}
