@@ -1,6 +1,6 @@
 import { createReducer } from "redux-create-reducer";
 import { Reducer } from "redux";
-import * as snakeCase from "lodash/snakeCase";
+import { snakeCase } from "lodash";
 
 const generateTypes = (handler, moduleName) => {
     const fh = Object.keys(handler).reduce(flattenHandler(handler), {});

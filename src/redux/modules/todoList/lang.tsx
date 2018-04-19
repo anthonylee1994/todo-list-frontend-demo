@@ -1,0 +1,17 @@
+export const lang = {
+    "todo.list": "TODO List",
+    "create.task": "Create Task",
+    "edit.task": "Edit Task",
+    "save": "Save",
+    "cancel": "Cancel",
+    "remove": "Remove",
+    "mark.completed": "Mark completed",
+    "mark.uncompleted": "Mark uncompleted",
+    "no.task": "No Task",
+    "task.name": "Task Name",
+    "due.date": "Due Date",
+    "invalid.date": "Invalid Date",
+    "required": "Required",
+    "items.selected": "item(s) are selected",
+    "selected": "selected",
+};

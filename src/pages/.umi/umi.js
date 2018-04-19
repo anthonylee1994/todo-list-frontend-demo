@@ -22,7 +22,7 @@ window.g_history = createHistory({
 function render() {
   ReactDOM.render(
     React.createElement(
-      require('/Users/kencckw/projects/ts/src/redux/index').default,
+      require('/Users/anthony/Documents/Development/AntTeam/Test/SectionB/todo-list-frontend/src/redux/index').default,
       null,
       React.createElement(require('./router').default),
     ),
